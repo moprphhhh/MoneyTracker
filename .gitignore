@@ -49,7 +49,7 @@ out/
 # Gradle files
 .gradle
 .gradle/
-build/
+app/build/
 
 # Signing files
 .signing/
